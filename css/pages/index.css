@@ -1,0 +1,11 @@
+.header-page {
+    display: flex;
+    align-items: center;
+    padding: 10px 10px 10px 10px;
+    background-color: #009BFF;
+    
+}
+
+.logo{
+    width: 140px;
+}
